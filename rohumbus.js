@@ -14,8 +14,6 @@ for(i = 1; i<=5; i++){
     console.log(row)
 
 }
-
-
 for(i = 5 ; i>=1; i--){
     let row = ''
     for(k = 0; k<= 4-i; k++){
